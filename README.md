@@ -1,3 +1,8 @@
+# Deployed Here --> https://task-tracker-tool.netlify.app/
+
+---
+
+
 # TaskFlow — MERN Task Tracker
 
 A full-stack Task Tracker built with the MERN stack (MongoDB, Express, React, Node.js).
@@ -25,6 +30,8 @@ task-tracker/
     ├── .env                  # VITE_API_URL
     └── vite.config.js        # Dev proxy config
 ```
+
+---
 
 ## Tech Stack
 
@@ -98,9 +105,21 @@ cd server && npm run dev
 # Terminal 2 — Frontend
 cd client && npm run dev
 ```
+---
+## OVERVIEW : 
+<img width="1395" height="960" alt="image" src="https://github.com/user-attachments/assets/a6745829-2628-426d-974d-c91bc4535262" />
 
-Visit **http://localhost:5173**
+
+Visit **https://task-tracker-tool.netlify.app/**
 
 The Vite dev server proxies `/api` requests to `http://localhost:5000`, so no CORS issues.
+
+---
+
+@Rachit-kumar-codes --- RACHIT KUMAR
+
+License
+
+This project is open-source and available under the MIT License.
 
 
