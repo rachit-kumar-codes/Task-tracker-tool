@@ -40,9 +40,6 @@ p{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-span{
-  font-family:Arial, Helvetica, sans-serif;
-}
 .app {
   display: flex;
   flex-direction: column;
